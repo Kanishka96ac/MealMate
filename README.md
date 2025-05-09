@@ -40,25 +40,7 @@ MealMate is a beautiful, SwiftUI-based iOS app for discovering and saving your f
 
 ## 🗂️ Project Structure
 
-MealMate/
-├── Views/
-│   └── HomeView.swift
-│   └── RecipeDetailView.swift
-│   └── SearchView.swift
-│   └── FavouritesView.swift
-│   └── RecipeCollectionsView.swift
-├── ViewModels/
-│   └── UserManager.swift
-│   └── FavouritesManager.swift
-│   └── RecipeViewModel.swift
-│   └── GroupedRecipesViewModel.swift
-├── Models/
-│   └── Recipe.swift
-├── Services/
-│   └── RecipeService.swift
-├── Extensions/
-│   └── Notification+Extensions.swift
-├── MealMateApp.swift
+![Folder_Structure](https://github.com/user-attachments/assets/1b9a65fd-5cf7-4955-a3e7-dda373fd6707)
 
 ---
 
