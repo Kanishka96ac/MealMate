@@ -20,6 +20,7 @@ MealMate is a beautiful, SwiftUI-based iOS app for discovering and saving your f
 ## 📸 Screenshots
 
 <img width="382" alt="Screenshot 2025-05-06 at 3 21 03ÔÇ»pm" src="https://github.com/user-attachments/assets/54c97187-6546-47c6-82f9-5c09b5e32763" />
+<img width="382" alt="Screenshot 2025-05-06 at 3 25 02ÔÇ»pm" src="https://github.com/user-attachments/assets/45470298-7f1a-4e81-8df5-4cf672b2982c" />
 <img width="382" alt="Screenshot 2025-05-06 at 3 22 47ÔÇ»pm" src="https://github.com/user-attachments/assets/5b7208c5-07f1-4811-ae02-5c455cc60767" />
 <img width="382" alt="Screenshot 2025-05-06 at 3 27 14ÔÇ»pm" src="https://github.com/user-attachments/assets/032a11ce-f98a-4227-86d2-cfcccb82b370" />
 <img width="382" alt="Screenshot 2025-05-06 at 3 28 04ÔÇ»pm" src="https://github.com/user-attachments/assets/2b3c5e8b-7770-4eb9-8633-21f8c4dfb552" />
